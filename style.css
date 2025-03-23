@@ -6,7 +6,7 @@
 
 * { margin: 0; padding: 0; }
 
-body { font: 62.5% "Gill Sans", Georgia, sans-serif; background: url(images/body-bg.jpg) top center repeat-x white; }
+body { font: 62.5% "Gill Sans", Georgia, sans-serif; background: url(body-bg.jpg) top center repeat-x white; }
 
 p { font-size: 1.2em; line-height: 1.2em; }
 a { outline: none; color: red;}
@@ -28,7 +28,7 @@ a.close {
 	display: block;
 	width: 20px;
 	height: 21px;
-	background: url(images/close_button.jpg);
+	background: url(close_button.jpg);
 	text-indent: -9999px;
 }
 
@@ -63,7 +63,7 @@ td {
 	display: block;
 	width: 89px;
 	height: 26px;
-	background: url(images/moreinfo.jpg);
+	background: url(moreinfo.jpg);
 	text-indent: -9999px;
 	cursor: pointer;
 }

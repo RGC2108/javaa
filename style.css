@@ -24,7 +24,7 @@ a.close {
 	display: block;
 	width: 20px;
 	height: 21px;
-	background: URL("close_button.jpg");
+	background: url("close_button.jpg");
 	text-indent: -9999px;
 }
 
@@ -59,7 +59,7 @@ td {
 	display: block;
 	width: 89px;
 	height: 26px;
-	background: URL("moreinfo.jpg");
+	background: url("moreinfo.jpg");
 	text-indent: -9999px;
 	cursor: pointer;
 }
